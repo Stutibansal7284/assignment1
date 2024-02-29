@@ -12,7 +12,6 @@ class GuessTheNumber{
     void generateRandomNumber(){
         srand(101);
         computerGeneratedNumber=rand()%101;
-        //cout<<computerGeneratedNumber<<endl;
     }
     
     void startGame(){
