@@ -1,3 +1,3 @@
 # assignment1
-Stuti Bansal
-2310997284
+Name- Stuti Bansal
+Roll no.- 2310997284
